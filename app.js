@@ -61,8 +61,7 @@ var optionsModelMaterialArray = ['catamaranLong.mtl',
 	'satelliteModem.mtl'
 ]
 
-var pricesArray = [100,
-700,
+var pricesArray = [700,
 700,
 600,
 600,
